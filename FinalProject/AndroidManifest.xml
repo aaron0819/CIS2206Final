@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hampsonad19.finalproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="hampsonad19.finalproject.Main"
+            android:label="@string/app_name" 
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".About"></activity>
+        <activity android:name=".RateCalc"></activity>
+        <activity android:name=".Convertible1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Convertible2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Convertible3"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Convertible4"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Hybrid1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Hybrid2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Hybrid3"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Hybrid4"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>  
+        <activity android:name=".Luxury1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury3"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury4"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury5"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury6"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury7"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury8"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury9"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Luxury10"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan3"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan4"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan5"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan6"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>  
+        <activity android:name=".Sedan7"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan8"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Sedan9"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SUV1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SUV2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SUV3"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SUV4"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SUV5"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>   
+        <activity android:name=".SUV6"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Tab1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Tab2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Truck1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Van1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Van2"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".Wagon1"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        
+    </application>
+
+</manifest>

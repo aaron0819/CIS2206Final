@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hScrollviewTitle1">Convertibles</string>
+    <string name="hScrollviewTitle2">Hybrids</string>
+    <string name="hScrollviewTitle3">Luxury</string>
+    <string name="hScrollviewTitle4">Sedans</string>
+    <string name="hScrollviewTitle5">SUVs</string>
+    <string name="hScrollviewTitle6">Trucks</string>
+    <string name="hScrollviewTitle7">Vans</string>
+    <string name="hScrollviewTitle8">Wagons</string>
+	<string name="carDesc">Car</string>
+	
+	<string name="convertible1">Mitsubishi Spyder</string>
+	<string name="convertible1desc">2 to 4 Passengers\n1 Small Suitcase\nAutomatic Transmission\n</string>
+	<string name="convertible2">Mustang Convertible </string>
+	<string name="convertible2desc">4 Passengers\n2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n30 miles/gallon or better</string>
+	<string name="convertible3">Chevy Camaro SS Convertible</string>
+	<string name="convertible3desc">4 Passengers\n1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n25 miles/gallon or better</string>
+	<string name="convertible4">Corvette Convertible</string>
+	<string name="convertible4desc">2 Passengers\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n25 miles/gallon or better</string>
+	
+	<string name="hybrid1">Nissan Leaf</string>
+	<string name="hybrid1desc">4 Passengers\n2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS</string>
+	<string name="hybrid2">Toyota Prius</string>
+	<string name="hybrid2desc">	5 Passengers\n2 Large Suitcases, 1 Small Suitcase\nAutomatic Transmission\nDual Airbags\nABS\n48 miles/gallon or better</string>
+	<string name="hybrid3">Honda Compressed Natural Gas Car</string>
+	<string name="hybrid3desc">5 Passengers\n2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n36 miles/gallon or better</string>
+	<string name="hybrid4">Jetta TDI Clean Diesel</string>
+	<string name="hybrid4desc">5 Passengers\n1 Large Suitcase, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n42 miles/gallon or better</string>
+
+	<string name="luxury1">Cadillac Escalade AWD</string>
+	<string name="luxury1desc">7 Passengers\n2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n19 miles/gallon or better</string>
+	<string name="luxury2">Cadillac SRX Crossover</string>
+	<string name="luxury2desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n21 miles/gallon or better</string>
+	<string name="luxury3">Cadillac ATS</string>
+	<string name="luxury3desc">4 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nABS\n25 miles/gallon or better</string>
+	<string name="luxury4">Infiniti QX56</string>
+	<string name="luxury4desc">7 Passengers\n3 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n20 miles/gallon or better</string>
+	<string name="luxury5">Lincoln Navigator 4WD</string>
+	<string name="luxury5desc">7 Passengers\n3 Large Suitcases, 3 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n18 miles/gallon or better</string>
+	<string name="luxury6">Mercedes GLK350</string>
+	<string name="luxury6desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n22 miles/gallon or better</string>
+	<string name="luxury7">Mercedes E Class</string>
+	<string name="luxury7desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n24 miles/gallon or better</string>
+	<string name="luxury8">Mercedes E350 Convertible</string>
+	<string name="luxury8desc">4 Passengers\n1 Large Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n28 miles/gallon or better</string>	
+	<string name="luxury9">Mercedes C Class </string>
+	<string name="luxury9desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n26 miles/gallon or better</string>
+	<string name="luxury10">Volvo C70 Convertible</string>
+	<string name="luxury10desc">4 Passengers\n1 Large Suitcase\nAutomatic Transmission\nAir Conditioning</string>
+		
+				
+	<string name="sedan1">Kia Rio</string>
+	<string name="sedan1desc">4 Passengers\n2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\n33 miles/gallon or better</string>
+	<string name="sedan2">Ford Focus</string>
+	<string name="sedan2desc">5 Passengers\n1 Large Suitcase, 1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\n38 miles/gallon or better</string>
+	<string name="sedan3">Toyota Corolla </string>
+	<string name="sedan3desc">5 Passengers\n2 Large Suitcases, 1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n32 miles/gallon or better</string>
+	<string name="sedan4">Nissan Altima</string>
+	<string name="sedan4desc">5 Passengers\n2 Large Suitcases, 1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n29 miles/gallon or better</string>
+	<string name="sedan5">Dodge Avenger</string>
+	<string name="sedan5desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n29 miles/gallon or better</string>
+	<string name="sedan6">Chevrolet Malibu</string>
+	<string name="sedan6desc">5 Passengers\n2 Large Suitcases, 1 Medium Suitcase , 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\n25 miles/gallon or better</string>
+	<string name="sedan7">Toyota Camry</string>
+	<string name="sedan7desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n31 miles/gallon or better</string>
+	<string name="sedan8">Nissan Maxima</string>
+	<string name="sedan8desc">5 Passengers\n2 Large Suitcases, 1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nABS\n27 miles/gallon or better</string>	
+	<string name="sedan9">Buick LaCrosse</string>
+	<string name="sedan9desc">5 Passengers\n2 Large Suitcases, 1 Small Suitcase\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n27 miles/gallon or better</string>
+
+	<string name="suv1">Chevrolet Captiva</string>
+	<string name="suv1desc">5 Passengers\n3 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n28 miles/gallon or better</string>
+	<string name="suv2">Toyota RAV4</string>
+	<string name="suv2desc">5 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n29 miles/gallon or better</string>
+	<string name="suv3">Chevrolet Equinox</string>
+	<string name="suv3desc">5 Passengers\n3 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n19 miles/gallon or better</string>
+	<string name="suv4">Chevrolet Tahoe</string>
+	<string name="suv4desc">8 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n21 miles/gallon or better</string>
+	<string name="suv5">Ford Explorer</string>
+	<string name="suv5desc">7 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n23 miles/gallon or better</string>
+	<string name="suv6">GMC Yukon XL</string>
+	<string name="suv6desc">8 Passengers\n3 Large Suitcases, 3 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n21 miles/gallon or better</string>
+	
+	
+	<string name="truck1">Nissan Frontier</string>
+	<string name="truck1desc">5 Passengers\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n21 miles/gallon or better</string>
+	
+	<string name="van1">Dodge Grand Caravan</string>
+	<string name="van1desc">7 Passengers\n3 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\n23 miles/gallon or better</string>
+	<string name="van2">Ford Super Clubwagon</string>
+	<string name="van2desc">12 or 15 Passengers\n3 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\n16 miles/gallon or better</string>
+	
+	<string name="wagon1">Chevrolet Traverse</string>
+	<string name="wagon1desc">5 to 8 Passengers\n2 Large Suitcases, 2 Small Suitcases\nAutomatic Transmission\nAir Conditioning\nDual Airbags\nABS\nSiriusXM Satellite Radio\n24 miles/gallon or better</string>
+	
+	<string name="bookCar">Book This Car</string>
+	<string name="aboutText">This application was designed and coded by Aaron D. Hampson for Mansfield University CIS-2206. \nThis code is hereby placed in the public domain for free use. </string>
+	<string name="edtTxtDaysHint">Enter duration of rental</string>
+	<string name="edtTxtDaysText">0</string>
+	<string name="rateCalcTitle">Cost of Rental Calculator</string>
+	
+	<string name="radBtnConvertible">Convertible $45.00 / day</string>
+	<string name="radBtnHybrid">Hybrid $65.00 / day</string>
+	<string name="radBtnLuxury">Luxury $120.00 / day</string>
+	<string name="radBtnSedan">Sedan $55.00 / day</string>
+	<string name="radBtnSUV">SUV $70.00 / day</string>
+	<string name="radBtnTruck">Truck $70.00 / day</string>
+	<string name="radBtnVan">Van $60.00 / day</string>
+	<string name="radBtnWagon">Wagon $55.00 / day</string>
+	<string name="btnRateCalc">Calculate Total Cost</string>
+	
+</resources>

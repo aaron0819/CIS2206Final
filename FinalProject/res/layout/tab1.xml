@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ 
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent" 
+   android:layout_height="fill_parent" >
+       <LinearLayout
+         	 	android:layout_width="fill_parent"
+         	 	android:layout_height="wrap_content"
+          	android:orientation="vertical" >
+          	
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="@string/hScrollviewTitle1"
+	        android:textSize="25sp" />
+ 
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnConvertible1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/convertible_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnConvertible2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/convertible_2" />
+
+		        <ImageButton
+		            android:id="@+id/btnConvertible3"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/convertible_3" />
+
+		        <ImageButton
+		            android:id="@+id/btnConvertible4"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/convertible_4" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 
+		
+	    <TextView
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_marginTop="10dp"
+	       android:text="@string/hScrollviewTitle2"
+	       android:textSize="25sp" />
+	    
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnHybrid1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/hybrid_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnHybrid2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/hybrid_2" />
+
+				<ImageButton
+				    android:id="@+id/btnHybrid3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/hybrid_3" />
+
+				<ImageButton
+				    android:id="@+id/btnHybrid4"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/hybrid_4" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 
+		
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="@string/hScrollviewTitle3"
+	        android:textSize="25sp" />
+	 
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnLuxury1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/luxury_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnLuxury2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/luxury_2" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_3" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury4"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_4" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury5"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_5" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury6"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_6" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury7"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_7" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury8"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_8" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury9"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_9" />
+
+				<ImageButton
+				    android:id="@+id/btnLuxury10"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/luxury_10" />
+
+			</LinearLayout>
+		</HorizontalScrollView>
+		
+	    <TextView
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_marginTop="10dp"
+	       android:text="@string/hScrollviewTitle4"
+	       android:textSize="25sp" />
+	    
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnSedan1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/sedan_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnSedan2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/sedan_2" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_3" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan4"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_4" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan5"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_5" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan6"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_6" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan7"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_7" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan8"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_8" />
+
+				<ImageButton
+				    android:id="@+id/btnSedan9"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/sedan_9" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 
+		
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="@string/hScrollviewTitle5"
+	        android:textSize="25sp" />
+	 
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnSUV1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/suv_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnSUV2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/suv_2" />
+
+				<ImageButton
+				    android:id="@+id/btnSUV3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/suv_3" />
+
+				<ImageButton
+				    android:id="@+id/btnSUV4"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/suv_4" />
+
+				<ImageButton
+				    android:id="@+id/btnSUV5"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/suv_5" />
+
+				<ImageButton
+				    android:id="@+id/btnSUV6"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:contentDescription="@string/carDesc"
+				    android:src="@drawable/suv_6" />
+
+			</LinearLayout>
+		</HorizontalScrollView>
+          	
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="@string/hScrollviewTitle6"
+	        android:textSize="25sp" />
+ 
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnTruck1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/truck_1" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 
+		          	
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="@string/hScrollviewTitle7"
+	        android:textSize="25sp" />
+ 
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnVan1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/van_1" />
+
+		        <ImageButton
+		            android:id="@+id/btnVan2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/van_2" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 
+	    <TextView
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_marginTop="10dp"
+	       android:text="@string/hScrollviewTitle8"
+	       android:textSize="25sp" />
+	    
+		<HorizontalScrollView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp" > 
+		    <LinearLayout android:layout_width="wrap_content" 
+		        android:layout_height="wrap_content" 
+		        android:orientation="horizontal" > 
+
+		        <ImageButton
+		            android:id="@+id/btnWagon1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:contentDescription="@string/carDesc"
+		            android:src="@drawable/wagon_1" />
+
+			</LinearLayout>
+		</HorizontalScrollView> 							
+	</LinearLayout> 
+</ScrollView>
+	
